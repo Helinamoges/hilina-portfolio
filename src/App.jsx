@@ -174,4 +174,3 @@ export default function App() {
                   {skillGroup.icon}
                   <h3 className="text-white font-bold text-base tracking-tight">{skillGroup.category}</h3>
                 </div>
-Use code with caution.{skillGroup.items.map((item, idx) => ({item}))}))});}
